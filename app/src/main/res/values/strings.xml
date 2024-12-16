@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">The Witcher Network</string>
+    <string name="hire_witcher">Hire a Witcher</string>
+    <string name="select_problem">Select your problem</string>
+    <string name="final_screen">Your selection</string>
+    <string name="back_button">Back</string>
+    <string name="cancel">Abort</string>
+    <string name="next">Continue</string>
+    <string name="toss">Toss a coin to your Witcher</string>
+    <string name="selected_witcher">Selected Witcher</string>
+    <string name="selected_monster">Selected Monster</string>
+</resources>
